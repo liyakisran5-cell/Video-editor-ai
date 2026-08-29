@@ -1,0 +1,6 @@
+{
+  "name": "DayaCuts",
+  "description": "Premium AI-powered video editing SaaS with intelligent smart cuts, automated dynamic captions, b-roll generation, speech zoom effects, viral shorts reframing, and natural language timeline editing.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
